@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\power\\Desktop\\C#\\GasApplication\\GasApplication.csproj",
+      "projectUniqueName": "C:\\Users\\power\\Desktop\\GitRepo\\VSCode\\C#\\GasApplication\\GasApplication.csproj",
       "projectName": "GasApplication",
-      "projectPath": "C:\\Users\\power\\Desktop\\C#\\GasApplication\\GasApplication.csproj",
+      "projectPath": "C:\\Users\\power\\Desktop\\GitRepo\\VSCode\\C#\\GasApplication\\GasApplication.csproj",
       "packagesPath": "C:\\Users\\power\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\power\\Desktop\\C#\\GasApplication\\obj\\",
+      "outputPath": "C:\\Users\\power\\Desktop\\GitRepo\\VSCode\\C#\\GasApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
