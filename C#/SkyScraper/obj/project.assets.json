@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\power\\Desktop\\C#\\SkyScraper\\SkyScraper.csproj",
+      "projectUniqueName": "C:\\Users\\power\\Desktop\\GitRepo\\VSCode\\C#\\SkyScraper\\SkyScraper.csproj",
       "projectName": "SkyScraper",
-      "projectPath": "C:\\Users\\power\\Desktop\\C#\\SkyScraper\\SkyScraper.csproj",
+      "projectPath": "C:\\Users\\power\\Desktop\\GitRepo\\VSCode\\C#\\SkyScraper\\SkyScraper.csproj",
       "packagesPath": "C:\\Users\\power\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\power\\Desktop\\C#\\SkyScraper\\obj\\",
+      "outputPath": "C:\\Users\\power\\Desktop\\GitRepo\\VSCode\\C#\\SkyScraper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

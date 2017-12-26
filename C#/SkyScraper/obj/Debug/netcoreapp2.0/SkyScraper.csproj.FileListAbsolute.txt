@@ -8,3 +8,13 @@ C:\Users\power\Desktop\C#\SkyScraper\bin\Debug\netcoreapp2.0\SkyScraper.dll
 C:\Users\power\Desktop\C#\SkyScraper\bin\Debug\netcoreapp2.0\SkyScraper.pdb
 C:\Users\power\Desktop\C#\SkyScraper\obj\Debug\netcoreapp2.0\SkyScraper.dll
 C:\Users\power\Desktop\C#\SkyScraper\obj\Debug\netcoreapp2.0\SkyScraper.pdb
+C:\Users\power\Desktop\GitRepo\VSCode\C#\SkyScraper\bin\Debug\netcoreapp2.0\SkyScraper.deps.json
+C:\Users\power\Desktop\GitRepo\VSCode\C#\SkyScraper\bin\Debug\netcoreapp2.0\SkyScraper.runtimeconfig.json
+C:\Users\power\Desktop\GitRepo\VSCode\C#\SkyScraper\bin\Debug\netcoreapp2.0\SkyScraper.runtimeconfig.dev.json
+C:\Users\power\Desktop\GitRepo\VSCode\C#\SkyScraper\bin\Debug\netcoreapp2.0\SkyScraper.dll
+C:\Users\power\Desktop\GitRepo\VSCode\C#\SkyScraper\bin\Debug\netcoreapp2.0\SkyScraper.pdb
+C:\Users\power\Desktop\GitRepo\VSCode\C#\SkyScraper\obj\Debug\netcoreapp2.0\SkyScraper.csproj.CoreCompileInputs.cache
+C:\Users\power\Desktop\GitRepo\VSCode\C#\SkyScraper\obj\Debug\netcoreapp2.0\SkyScraper.AssemblyInfoInputs.cache
+C:\Users\power\Desktop\GitRepo\VSCode\C#\SkyScraper\obj\Debug\netcoreapp2.0\SkyScraper.AssemblyInfo.cs
+C:\Users\power\Desktop\GitRepo\VSCode\C#\SkyScraper\obj\Debug\netcoreapp2.0\SkyScraper.dll
+C:\Users\power\Desktop\GitRepo\VSCode\C#\SkyScraper\obj\Debug\netcoreapp2.0\SkyScraper.pdb
