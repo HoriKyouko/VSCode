@@ -1,0 +1,10 @@
+C:\Users\power\Desktop\C#\OldC#\bin\Debug\netcoreapp2.0\OldC#.deps.json
+C:\Users\power\Desktop\C#\OldC#\bin\Debug\netcoreapp2.0\OldC#.runtimeconfig.json
+C:\Users\power\Desktop\C#\OldC#\bin\Debug\netcoreapp2.0\OldC#.runtimeconfig.dev.json
+C:\Users\power\Desktop\C#\OldC#\bin\Debug\netcoreapp2.0\OldC#.dll
+C:\Users\power\Desktop\C#\OldC#\bin\Debug\netcoreapp2.0\OldC#.pdb
+C:\Users\power\Desktop\C#\OldC#\obj\Debug\netcoreapp2.0\OldC#.csproj.CoreCompileInputs.cache
+C:\Users\power\Desktop\C#\OldC#\obj\Debug\netcoreapp2.0\OldC#.AssemblyInfoInputs.cache
+C:\Users\power\Desktop\C#\OldC#\obj\Debug\netcoreapp2.0\OldC#.AssemblyInfo.cs
+C:\Users\power\Desktop\C#\OldC#\obj\Debug\netcoreapp2.0\OldC#.dll
+C:\Users\power\Desktop\C#\OldC#\obj\Debug\netcoreapp2.0\OldC#.pdb

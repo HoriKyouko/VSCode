@@ -1,0 +1,30 @@
+I want to know how much it costs to get from my house to the gas station with the best
+price per gallon. This means what will cost the least amount of money burning fuel to get
+there and to fill my tank as much as possible.
+
+Price at gas stations
+#1 2.35
+#2 2.29
+#3 2.26
+---------
+Gallons I get for 20$ gross gas
+#1 8.5106383
+#2 8.7336245
+#3 8.8495575
+---------
+Average MPG: 19
+---------
+Miles from home to gas station
+#1 1.3
+#2 4.8
+#3 9.0
+---------
+Gallons of Gas burned to get to gas station (miles to gas/MPG)
+#1 0.06842105
+#2 0.25263158
+#3 0.47368421
+---------
+Gallons actually received (gallons - burned to gas) net gas
+#1 8.44221725
+#2 8.48099292
+#3 8.37587329

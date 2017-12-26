@@ -1,0 +1,10 @@
+C:\Users\power\Desktop\C#\GasApplication\obj\Debug\netcoreapp2.0\GasApplication.csproj.CoreCompileInputs.cache
+C:\Users\power\Desktop\C#\GasApplication\obj\Debug\netcoreapp2.0\GasApplication.AssemblyInfoInputs.cache
+C:\Users\power\Desktop\C#\GasApplication\obj\Debug\netcoreapp2.0\GasApplication.AssemblyInfo.cs
+C:\Users\power\Desktop\C#\GasApplication\bin\Debug\netcoreapp2.0\GasApplication.deps.json
+C:\Users\power\Desktop\C#\GasApplication\bin\Debug\netcoreapp2.0\GasApplication.runtimeconfig.json
+C:\Users\power\Desktop\C#\GasApplication\bin\Debug\netcoreapp2.0\GasApplication.runtimeconfig.dev.json
+C:\Users\power\Desktop\C#\GasApplication\bin\Debug\netcoreapp2.0\GasApplication.dll
+C:\Users\power\Desktop\C#\GasApplication\bin\Debug\netcoreapp2.0\GasApplication.pdb
+C:\Users\power\Desktop\C#\GasApplication\obj\Debug\netcoreapp2.0\GasApplication.dll
+C:\Users\power\Desktop\C#\GasApplication\obj\Debug\netcoreapp2.0\GasApplication.pdb
