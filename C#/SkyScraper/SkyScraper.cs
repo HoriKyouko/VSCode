@@ -38,10 +38,31 @@ namespace SkyScraper{
                     break;
             }
             for(int i = 0; i < 4; i++){
-                for(int j = 0; j < 4; j++)
+                for(int j = 0; j < 4; j++){
                     Console.Write("{0}", arr[i,j]);
+                }
                 Console.WriteLine("");
             }
+            //bool tick = true;
+            int foo = 0;
+            string bar = foo.ToString();
+            Console.WriteLine("{0}", bar);
+           /* while(tick){
+                tick = playingGame(arr);
+            }*/
+        }
+
+        private static bool playingGame(int[,] arr)
+        {
+            int[,] newarr = new int[8,8];
+            for(int i = 0; i < 8; i++){
+                for(int j = 0; j < 8; j++){
+                    if((i == 1 || i == 6) || (j == 1 || j == 6)){
+                        arr[i,j] = 0;
+                    }
+                }
+            }
+            return false;
         }
     }
 }

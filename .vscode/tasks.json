@@ -5,9 +5,11 @@
             "label": "build",
             "command": "dotnet",
             "type": "process",
+            // Might have to comment out the builds your not
+            // trying to use for debugging purposes.
             "args": [
                 "build",
-                "${workspaceFolder}/C#/GasApplication/GasApplication.csproj",
+                //"${workspaceFolder}/C#/GasApplication/GasApplication.csproj",
                 "${workspaceFolder}/C#/SkyScraper/SkyScraper.csproj"
             ],
             "problemMatcher": "$msCompile"

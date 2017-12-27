@@ -10,9 +10,12 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/C#/GasApplication/bin/Debug/netcoreapp2.0/GasApplication.dll",
+            // Basically change the ".../C#/{THING HERE}/.../{THING HERE}.dll to the 
+            // program your trying to debug.
+            "program": "${workspaceFolder}/C#/SkyScraper/bin/Debug/netcoreapp2.0/SkyScraper.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/C#/GasApplication",
+            // Just change the .../C#/{THING HERE} to whatever program trying to debug.
+            "cwd": "${workspaceFolder}/C#/SkyScraper",
             // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
             "console": "internalConsole",
             "stopAtEntry": false,
