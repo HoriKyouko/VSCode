@@ -10,7 +10,8 @@
             "args": [
                 "build",
                 //"${workspaceFolder}/C#/GasApplication/GasApplication.csproj",
-                "${workspaceFolder}/C#/SkyScraper/SkyScraper.csproj"
+                "${workspaceFolder}/C#/GBus/GBus.csproj"
+                //"${workspaceFolder}/C#/SkyScraper/SkyScraper.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
