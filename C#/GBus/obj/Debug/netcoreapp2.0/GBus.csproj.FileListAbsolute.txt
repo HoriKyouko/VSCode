@@ -1,0 +1,10 @@
+C:\Users\power\Desktop\GitRepo\VSCode\C#\GBus\bin\Debug\netcoreapp2.0\GBus.deps.json
+C:\Users\power\Desktop\GitRepo\VSCode\C#\GBus\bin\Debug\netcoreapp2.0\GBus.runtimeconfig.json
+C:\Users\power\Desktop\GitRepo\VSCode\C#\GBus\bin\Debug\netcoreapp2.0\GBus.runtimeconfig.dev.json
+C:\Users\power\Desktop\GitRepo\VSCode\C#\GBus\bin\Debug\netcoreapp2.0\GBus.dll
+C:\Users\power\Desktop\GitRepo\VSCode\C#\GBus\bin\Debug\netcoreapp2.0\GBus.pdb
+C:\Users\power\Desktop\GitRepo\VSCode\C#\GBus\obj\Debug\netcoreapp2.0\GBus.csproj.CoreCompileInputs.cache
+C:\Users\power\Desktop\GitRepo\VSCode\C#\GBus\obj\Debug\netcoreapp2.0\GBus.AssemblyInfoInputs.cache
+C:\Users\power\Desktop\GitRepo\VSCode\C#\GBus\obj\Debug\netcoreapp2.0\GBus.AssemblyInfo.cs
+C:\Users\power\Desktop\GitRepo\VSCode\C#\GBus\obj\Debug\netcoreapp2.0\GBus.dll
+C:\Users\power\Desktop\GitRepo\VSCode\C#\GBus\obj\Debug\netcoreapp2.0\GBus.pdb
